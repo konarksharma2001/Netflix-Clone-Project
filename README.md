@@ -1,6 +1,7 @@
 Netflix Clone
 
-This project is a clone from Netflix, build using HTML, CSS and JAVASCRIPT. 
+Created the Netflix landing page using HTML, CSS and JavaScript for the tabs , using modern CSS3+ techniques like Grid, Flex, overlays, shadows. 
+
 
 FRONTEND SNAPSHOTS : 
 
