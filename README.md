@@ -3,12 +3,12 @@
 Created the Netflix landing page using HTML, CSS and JavaScript for the tabs , using modern CSS3+ techniques like Grid, Flex, overlays, shadows. 
 
 
-###Built With
+Built With : 
 
-*javascript
-*html
-*css
-*jquery
+javascript
+html
+css
+jquery
 
 
 SCREENSHOTS : 
