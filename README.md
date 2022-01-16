@@ -1,17 +1,17 @@
-#Netflix Clone
+# Netflix Clone
 
 Created the Netflix landing page using HTML, CSS and JavaScript for the tabs , using modern CSS3+ techniques like Grid, Flex, overlays, shadows. 
 
 
-Built With : 
+## Built With : 
 
-javascript
-html
-css
-jquery
+* javascript
+* html
+* css
+* jquery
 
 
-SCREENSHOTS : 
+## SCREENSHOTS : 
 
 ![Screenshot (149)](https://user-images.githubusercontent.com/87274294/148682820-da36cd85-1f5b-4854-a7fa-0979ebd2e920.png)
  
